@@ -10,3 +10,6 @@ This  is a statement after the first commit.
 
 
 Thsi is new addition in amster branch after te branch1 is created
+
+
+this ia change made in the remote repository.
